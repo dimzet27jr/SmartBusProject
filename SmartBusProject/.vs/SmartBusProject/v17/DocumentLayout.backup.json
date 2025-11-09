@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\C# Projects\\SmartBusProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\mastercardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\mastercardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterCardForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\MasterCardForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\MasterCardForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\MasterCardForm.cs",
+              "RelativeToolTip": "SmartBusProject\\MasterCardForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:32:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\MenuForm.Designer.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\MenuForm.Designer.cs",
+              "RelativeToolTip": "SmartBusProject\\MenuForm.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAmwAsBAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:29:13.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartForm.Designer.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\CartForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\CartForm.Designer.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\CartForm.Designer.cs",
+              "RelativeToolTip": "SmartBusProject\\CartForm.Designer.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAgwJwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:23:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\CartForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\CartForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\CartForm.cs [Design]",
+              "RelativeToolTip": "SmartBusProject\\CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:22:09.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\CartForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\CartForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\CartForm.cs",
+              "RelativeToolTip": "SmartBusProject\\CartForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:01:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Program.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\Program.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Program.cs",
+              "RelativeToolTip": "SmartBusProject\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:48:49.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SmartBusProject\\Properties\\Resources.resx",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Properties\\Resources.resx",
+              "RelativeToolTip": "SmartBusProject\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-06T19:39:29.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
