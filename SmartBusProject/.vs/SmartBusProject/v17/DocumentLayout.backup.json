@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\C# Projects\\SmartBusProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\navigationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\navigationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\energyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\energyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\energyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\energyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\energysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\energysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\energyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\energyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavigationForm.Designer.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\NavigationForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\NavigationForm.Designer.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\NavigationForm.Designer.cs",
+              "RelativeToolTip": "SmartBusProject\\NavigationForm.Designer.cs",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAYwO0BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:58:39.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnergySystem.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergySystem.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\EnergySystem.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergySystem.cs",
+              "RelativeToolTip": "SmartBusProject\\EnergySystem.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:13:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnergyForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergyForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\EnergyForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergyForm.cs",
+              "RelativeToolTip": "SmartBusProject\\EnergyForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:47:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnergyForm.Designer.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergyForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\EnergyForm.Designer.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergyForm.Designer.cs",
+              "RelativeToolTip": "SmartBusProject\\EnergyForm.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAYwKkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:48:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnergyForm.cs [Design]",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergyForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\EnergyForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\EnergyForm.cs [Design]",
+              "RelativeToolTip": "SmartBusProject\\EnergyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:46:42.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverMainForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverMainForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs",
+              "RelativeToolTip": "SmartBusProject\\DriverMainForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:48:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriverMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverMainForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs [Design]",
+              "RelativeToolTip": "SmartBusProject\\DriverMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:36:13.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Program.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\Program.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Program.cs",
+              "RelativeToolTip": "SmartBusProject\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIAwwF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:48:49.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SmartBusProject\\Properties\\Resources.resx",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Properties\\Resources.resx",
+              "RelativeToolTip": "SmartBusProject\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-06T19:39:29.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
