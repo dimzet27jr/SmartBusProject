@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\C# Projects\\SmartBusProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\passengersmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\passengersmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\driverassistanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\driverassistanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\driverassistanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\driverassistanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|D:\\My Projects\\C# Projects\\SmartBusProject\\smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\drivermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\driverassistancesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\driverassistancesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|d:\\my projects\\c# projects\\smartbusproject\\smartbusproject\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C57FABD1-2E07-4A40-804A-599BA8F214A9}|SmartBusProject\\SmartBusProject.csproj|solutionrelative:smartbusproject\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassengersMainForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\PassengersMainForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\PassengersMainForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\PassengersMainForm.cs",
+              "RelativeToolTip": "SmartBusProject\\PassengersMainForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:06:39.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverAssistanceForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverAssistanceForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverAssistanceForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverAssistanceForm.cs",
+              "RelativeToolTip": "SmartBusProject\\DriverAssistanceForm.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:33:49.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverAssistanceSystem.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverAssistanceSystem.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverAssistanceSystem.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverAssistanceSystem.cs",
+              "RelativeToolTip": "SmartBusProject\\DriverAssistanceSystem.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:59:09.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriverAssistanceForm.cs [Design]",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverAssistanceForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverAssistanceForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverAssistanceForm.cs [Design]",
+              "RelativeToolTip": "SmartBusProject\\DriverAssistanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:03:49.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverMainForm.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverMainForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs",
+              "RelativeToolTip": "SmartBusProject\\DriverMainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:48:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\DriverMainForm.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\DriverMainForm.cs [Design]",
+              "RelativeToolTip": "SmartBusProject\\DriverMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:36:13.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Program.cs",
+              "RelativeDocumentMoniker": "SmartBusProject\\Program.cs",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Program.cs",
+              "RelativeToolTip": "SmartBusProject\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwF8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:48:49.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SmartBusProject\\Properties\\Resources.resx",
+              "ToolTip": "D:\\My Projects\\C# Projects\\SmartBusProject\\SmartBusProject\\Properties\\Resources.resx",
+              "RelativeToolTip": "SmartBusProject\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-06T19:39:29.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
