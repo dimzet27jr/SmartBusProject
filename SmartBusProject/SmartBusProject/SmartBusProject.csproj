@@ -1,0 +1,221 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Videos\driver_view.mp4" />
+    <None Remove="HelpFiles\imgs\aircondition.png" />
+    <None Remove="HelpFiles\imgs\aircondition_p.png" />
+    <None Remove="HelpFiles\imgs\assistance.png" />
+    <None Remove="HelpFiles\imgs\assistance_p.png" />
+    <None Remove="HelpFiles\imgs\cafes_image.png" />
+    <None Remove="HelpFiles\imgs\cafes_p.png" />
+    <None Remove="HelpFiles\imgs\cafe_menu.png" />
+    <None Remove="HelpFiles\imgs\cart.png" />
+    <None Remove="HelpFiles\imgs\cart_p.png" />
+    <None Remove="HelpFiles\imgs\logo.png" />
+    <None Remove="HelpFiles\imgs\map.png" />
+    <None Remove="HelpFiles\imgs\map_p.png" />
+    <None Remove="HelpFiles\imgs\menu_p.png" />
+    <None Remove="HelpFiles\imgs\solar_panels.png" />
+    <None Remove="HelpFiles\imgs\solar_panels_p.png" />
+    <None Remove="HelpFiles\imgs\vacuum.png" />
+    <None Remove="HelpFiles\imgs\vacuum_p.png" />
+    <None Remove="HelpFiles\imgs\wanders.png" />
+    <None Remove="HelpFiles\imgs\wander_p.png" />
+    <None Remove="HelpFiles\index.html" />
+    <None Remove="HelpFiles\pages\about.html" />
+    <None Remove="HelpFiles\pages\air_condition.html" />
+    <None Remove="HelpFiles\pages\cafes.html" />
+    <None Remove="HelpFiles\pages\cafe_cart.html" />
+    <None Remove="HelpFiles\pages\cafe_menu.html" />
+    <None Remove="HelpFiles\pages\driver.html" />
+    <None Remove="HelpFiles\pages\driver_assistance.html" />
+    <None Remove="HelpFiles\pages\map.html" />
+    <None Remove="HelpFiles\pages\passenger.html" />
+    <None Remove="HelpFiles\pages\solarpanels.html" />
+    <None Remove="HelpFiles\pages\vacuum.html" />
+    <None Remove="HelpFiles\pages\wanders.html" />
+    <None Remove="HelpFiles\styles\aboutStyle.css" />
+    <None Remove="HelpFiles\styles\driverOptionsStyle.css" />
+    <None Remove="HelpFiles\styles\driverStyle.css" />
+    <None Remove="HelpFiles\styles\passengeOptionStyle.css" />
+    <None Remove="HelpFiles\styles\passengerStyle.css" />
+    <None Remove="HelpFiles\styles\style.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MediaPlayer">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>22d6f304-b0f6-11d0-94ab-0080c74c7e95</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <WrapperTool>aximp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\Videos\driver_view.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\aircondition.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\aircondition_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\assistance.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\assistance_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\cafes_image.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\cafes_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\cafe_menu.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\cart.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\cart_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\logo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\map.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\map_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\menu_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\solar_panels.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\solar_panels_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\vacuum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\vacuum_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\wanders.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\imgs\wander_p.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\index.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\about.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\air_condition.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\cafes.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\cafe_cart.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\cafe_menu.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\driver.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\driver_assistance.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\map.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\passenger.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\solarpanels.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\vacuum.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\pages\wanders.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\styles\aboutStyle.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\styles\driverOptionsStyle.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\styles\driverStyle.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\styles\passengeOptionStyle.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\styles\passengerStyle.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HelpFiles\styles\style.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Speech" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
